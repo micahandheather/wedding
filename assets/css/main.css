@@ -97,6 +97,13 @@ $border-color: rgba(black, .3);
 
 
 
+.image-link {
+    border: none !important;
+}
+
+
+
+
 
 
 @import url(fontawesome-all.min.css);
@@ -1409,6 +1416,7 @@ input, select, textarea {
 			background-color: #ffffff;
 			padding: 3em;
 			width: 50%;
+			
 		}
 
 		.panel.inactive {
