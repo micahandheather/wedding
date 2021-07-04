@@ -187,11 +187,10 @@ Canada </a> <br>
 								<header>
 									<h2>Contact Us</h2>
 								</header>
-							<form action="https://getsimpleform.com/messages?form_api_token=4d2e65eb190cac087cec4b1ae4c537a8" method="post">
-  
-  <input type='hidden' name='redirect_to' value='https://themckinleys.ca/#sent' />
-									
-									<div class="fields">
+							 <form action="https://api.staticforms.xyz/submit" method="post">
+
+
+	<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
 											<input type="text" name="name" id="name" />
@@ -207,10 +206,15 @@ Canada </a> <br>
 									</div>
 									<ul class="actions">
 										<li><input type='submit' value='SEND' />
-</form>
-      </li>
-									</ul>
-								</form>
+
+
+        <input type="text" name="honeypot" style="display:none">
+        <input type="hidden" name="accessKey" value="1d9be174-f5ed-4388-92fa-c0c85cbafde8">
+         <input type="hidden" name="subject" value="Wedding Message" />
+        <input type="hidden" name="replyTo" value="@">
+        <input type="hidden" name="redirectTo" value="https://themckinleys.ca/#sent">
+        
+    </form>
 						  </div>
 						</div>
 					</article>
