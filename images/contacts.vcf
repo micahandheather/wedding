@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Micah & Heather McKinley
+N:McKinley;Micah & Heather;;;
+item1.EMAIL;TYPE=INTERNET:wedding@themckinleys.ca
+item1.X-ABLabel:
+item2.TEL:(905) 505-3838
+item2.X-ABLabel:
+item3.ADR:;;239 Yorkshire Drive;Newmarket;ON;L3Y6K9;CA;239 Yorkshire Drive
+ \nNewmarket\, ON L3Y6K9\nCA
+item3.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
